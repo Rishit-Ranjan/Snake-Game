@@ -7,7 +7,11 @@ A modern and feature-rich implementation of the classic Snake game, built with J
 
 <p align="center">
   <!-- Replace this with a GIF or screenshot of your game -->
-  <img src="https://via.placeholder.com/700x700.png?text=Snake+Game+Screenshot" alt="Snake Game Screenshot" width="700"/>
+  <img width="876" height="913" alt="image" src="https://github.com/user-attachments/assets/63803a72-7329-4c0a-bdbf-e71f610b71ad" /><br/><br/>
+
+  <img width="876" height="913" alt="image" src="https://github.com/user-attachments/assets/36e2ad5f-d0d9-4f5c-8859-4ac08b8abd41" />
+
+
 </p>
 
 ## ✨ Features
@@ -77,7 +81,3 @@ The game includes code for sound effects that is disabled by default. To enable 
 1.  **Add Sound Files:** Place your `eat.wav` and `gameover.wav` sound files into the `src` directory.
 2.  **Uncomment Code:** In `App.java`, find and uncomment the lines related to `loadSound` and `playSound`.
 3.  **Recompile and Run:** Compile and run the game again as described above.
-
-## 📄 License
-
-This project is licensed under the MIT License.
