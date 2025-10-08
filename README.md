@@ -73,11 +73,3 @@ Control the snake to eat as much food as possible and grow its length. The game 
     java App
     ```
     The game window will appear, starting with the title screen.
-
-## 🔊 Enabling Sound (Optional)
-
-The game includes code for sound effects that is disabled by default. To enable them:
-
-1.  **Add Sound Files:** Place your `eat.wav` and `gameover.wav` sound files into the `src` directory.
-2.  **Uncomment Code:** In `App.java`, find and uncomment the lines related to `loadSound` and `playSound`.
-3.  **Recompile and Run:** Compile and run the game again as described above.
